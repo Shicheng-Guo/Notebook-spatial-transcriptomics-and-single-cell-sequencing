@@ -1,1 +1,1 @@
-# Notebook-spatial-transcriptomics-and-single-cell-sequencing
+# Notebook: Spatial Transcriptomics and Single Cell Sequencing
